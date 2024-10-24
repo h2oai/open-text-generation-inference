@@ -10,7 +10,7 @@ text-generation-server = 'text_generation_server.cli:app'
 [tool.poetry.dependencies]
 python = "^3.9"
 protobuf = "^4.21.7"
-grpcio = "^1.51.1"
+grpcio = "^1.56.2"
 grpcio-status = "^1.51.1"
 grpcio-reflection = "^1.51.1"
 grpc-interceptor = "^0.15.0"
